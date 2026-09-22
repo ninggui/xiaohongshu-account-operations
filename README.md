@@ -1,5 +1,8 @@
 <div align="center">
 
+
+![cover](assets/cover.png)
+
 # xiaohongshu-account-operations
 
 **多账号小红书评论运营：LLM 实时生成 + 人设配置 + 频率安全 + 质量闭环。**
